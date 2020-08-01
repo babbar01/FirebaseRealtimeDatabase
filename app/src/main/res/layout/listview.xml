@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvProdName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:includeFontPadding="false"
+        android:text="Prod name"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvProdPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:includeFontPadding="false"
+        android:text="prod price"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvProdCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:includeFontPadding="false"
+        android:text="category"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvProdDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="10dp"
+        android:includeFontPadding="false"
+        android:text="description"
+        android:textSize="16sp" />
+</LinearLayout>

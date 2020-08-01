@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/seller"
+        android:icon="@drawable/ic_beenhere_black_24dp"
+        android:title="seller section"
+        app:showAsAction="always"/>
+
+</menu>

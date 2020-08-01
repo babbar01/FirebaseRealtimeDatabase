@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981841495943",
+    "firebase_url": "https://phonic-altar-263018.firebaseio.com",
+    "project_id": "phonic-altar-263018",
+    "storage_bucket": "phonic-altar-263018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981841495943:android:4eae4d1052299bcb47f522",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981841495943-u3ro48mkec9um6gc5of02rgjetoraoel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "0b78608389120e6ec5c939cf5d513f4c0eb81088"
+          }
+        },
+        {
+          "client_id": "981841495943-4dejb08isvksap01l724tsc06mmgohpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Abi4yGKOLiOHPeEs6uCfE55y0LXGBII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981841495943-4dejb08isvksap01l724tsc06mmgohpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
